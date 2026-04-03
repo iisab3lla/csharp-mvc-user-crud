@@ -26,7 +26,7 @@ Essa separação facilita a manutenção e organização do código.
 - .NET
 
 ## Demonstração
-![Demonstração](./img/teste.png)
+![Demonstração](./assets/teste.png)
 
 ## Aprendizados
 
